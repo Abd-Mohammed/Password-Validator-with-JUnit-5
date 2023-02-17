@@ -1,0 +1,3 @@
+In src : You will find the main class (CUT). 
+
+In tests : You will find the test class.
